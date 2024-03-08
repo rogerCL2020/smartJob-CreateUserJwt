@@ -11,7 +11,7 @@ Este proyecto se desarrollo para ambiente local con el objetivo de demostrar  co
 - [x] Proceso de build vía Gradle o Maven.
 - [x] Persistencia con JPA. Ejemplo: EclipseLink, Hibernate u OpenJPA.
 - [x] Framework SpringBoot.
-- [x]Java 8+
+- [x] Java 8+
 - [x] Entrega en un repositorio público (github o bitbucket) con el código fuente y script de
 creación de BD.
 - [x] Readme explicando cómo probarlo.
