@@ -48,7 +48,7 @@ git clone https://github.com/rogerCL2020/smartJob-CreateUserJwt.git
 Ubiquese en el directorio donde lo clono abra su shell o cmd y ejecute el jar:
 
 ```
-java -jar demo\target\demo-0.0.1-SNAPSHOT.jar
+java -jar target\demo-0.0.1-SNAPSHOT.jar
 ```
 
 ## Demostracion y Pruebas con POSTMAN
