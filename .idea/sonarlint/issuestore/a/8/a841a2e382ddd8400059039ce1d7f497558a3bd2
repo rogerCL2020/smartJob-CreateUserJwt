@@ -1,7 +1,0 @@
-
-g	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ƒ“ıá1
-m
-java:S1192"PDefine a constant instead of duplicating this literal "/api/v1/usuario" 4 times.(•ûí´8„ƒ“ıá1
-o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õâüªûÿÿÿÿ8Œƒ“ıá1
-j	java:S100'"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãçó¢8´ƒ“ıá1
-o	java:S1004"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ï°îıÿÿÿÿ8·ƒ“ıá1
