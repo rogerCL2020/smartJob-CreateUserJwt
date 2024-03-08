@@ -36,7 +36,7 @@ Es una aplicación donde se expone una API RESTful de creación de usuarios.
 ![diagrama-secuencua.drawio.png](pruebas-imagen%2Fdiagrama-secuencua.drawio.png)
 
 ## Comando para clonar y ejecutar la aplicacion :
-Antes de clonar el repositorio verifique que tenga instalado [JAVA 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+Antes de clonar el repositorio verifique que tenga instalado [JAVA 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) y MAVEN para el build
 
 Link del repositorio github: https://github.com/rogerCL2020/smartJob-CreateUserJwt
 
@@ -45,9 +45,12 @@ Comando para clonar:
 git clone https://github.com/rogerCL2020/smartJob-CreateUserJwt.git
 ```
 
-Ubiquese en el directorio donde lo clono abra su shell o cmd y ejecute el jar:
+Ubiquese en la raiz del proyecto cloando y abra su shell o cmd. 
+
+Ejecute los comandos:
 
 ```
+mvn clean install
 java -jar target\demo-0.0.1-SNAPSHOT.jar
 ```
 
